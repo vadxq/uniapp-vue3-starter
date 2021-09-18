@@ -18,7 +18,7 @@ export default defineComponent({
 });
 </script>
 
-<style>
+<style lang="scss">
 .content {
   text-align: center;
   height: 400upx;
